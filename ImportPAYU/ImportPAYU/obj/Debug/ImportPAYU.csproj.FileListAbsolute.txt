@@ -1,0 +1,10 @@
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\bin\Debug\ImportPAYU.deps.json
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\bin\Debug\ImportPAYU.dll
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\bin\Debug\ImportPAYU.pdb
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.AssemblyInfo.cs
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.dll
+C:\Users\dawid\source\repos\ImportPAYU\ImportPAYU\ImportPAYU\obj\Debug\ImportPAYU.pdb
